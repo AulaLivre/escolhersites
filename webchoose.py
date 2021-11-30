@@ -19,7 +19,6 @@ def randomica():
 	elif ran == 5:
 		wb.open('https://www.foxnews.com/')
 		
-
 def main():
 	while True:	
 		print('GOGLE[1], WIKIPEDIA[2], YOUTUBE[3], CHESS.COM[4], FOX NEWS[5], RANDOMIZAR[6], EXIT[7].')
@@ -42,7 +41,6 @@ def main():
 			break
 		else:
 			print('Opção não aceita, por favor digite uma opção válida.')
-		#Escolha randômica:
 		print()		
 main()
 
